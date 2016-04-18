@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\WaveView-master\app\build\intermediates\exploded-aar\WaveView-master\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87eb4c4406ba70582cf5eb7528719315fd2d044f">
+        <dex dex="D:\android_github\WaveView-master\app\build\intermediates\pre-dexed\debug\classes-9ffbe43d1b9024573d8465f39dec8980b4ce7d4a.jar" />
+    </item>
+
+</items>
